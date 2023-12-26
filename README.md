@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**jmanuares2/jmanuares2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Manu Ares, un apasionado desarrollador con sede en Argentina 🇦🇷. Me encanta explorar el vasto mundo de la programación, y mi enfoque principal se centra en dos áreas clave: Java y el desarrollo frontend.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Actualmente, me encuentro inmerso en el emocionante mundo de Java. Disfruto resolviendo problemas y creando soluciones eficientes con este poderoso lenguaje.
+- 💻 Aunque me aventuro en diversos aspectos del desarrollo, mi corazón late más fuerte por el frontend. Me encanta diseñar interfaces atractivas y experiencias de usuario fluidas utilizando tecnologías como HTML, CSS y JavaScript.
+
+## Habilidades y Herramientas
+
+- ☕ Java
+- 🌐 Frontend Development: HTML, CSS, JavaScript
+
+## Colaboración
+
+¡Estoy siempre abierto a la colaboración y al intercambio de ideas! Si tienes un proyecto interesante o simplemente quieres charlar sobre desarrollo frontend o Java, no dudes en contactarme.
+
+## ¡Conéctate!
+
+¡Vamos a construir algo increíble juntos! Puedes encontrarme en [LinkedIn: Juan Manuel Ares Garcia], jmanuares@gmail.com, o simplemente enviarme un mensaje aquí en GitHub.
+
+¡Gracias por visitar!
+
